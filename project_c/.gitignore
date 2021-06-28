@@ -1,0 +1,10 @@
+src/*.o
+input_files
+src/a.out
+src/test
+
+../../.vscode/
+../.vscode/
+.vscode/
+src/.vscode/
+include/.vscode
